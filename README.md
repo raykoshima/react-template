@@ -1,4 +1,5 @@
-install <a href="https://nodejs.org/en/download">NodeJS</a> first
+clone this project than
+install <a href="https://nodejs.org/en/download">NodeJS</a> first(if not have)
 than <br><br>
 ```npm install```<br><br>
 for install node_modules that need for this project
